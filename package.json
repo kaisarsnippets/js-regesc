@@ -1,0 +1,25 @@
+{
+  "name": "kc-regesc",
+  "version": "1.0.4",
+  "description": "[js] RegExp chars escape.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-regesc.git"
+  },
+  "keywords": [
+    "escape",
+    "characters",
+    "regular expression",
+    "regex"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-regesc/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-regesc",
+  "dependencies": {
+    "fun2mod": "^1.0.5"
+  }
+}
