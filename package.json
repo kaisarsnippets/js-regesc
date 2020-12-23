@@ -1,6 +1,6 @@
 {
   "name": "kc-regesc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "[js] RegExp chars escape.",
   "main": "index.js",
   "repository": {
