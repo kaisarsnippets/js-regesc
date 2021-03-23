@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-regesc.git"
+    "url": "https://github.com/kaisarsnippets/js-regesc.git"
   },
   "keywords": [
     "escape",
@@ -16,9 +16,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-regesc/issues"
+    "url": "https://github.com/kaisarsnippets/js-regesc/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-regesc",
+  "homepage": "https://github.com/kaisarsnippets/js-regesc",
   "dependencies": {
     "fun2mod": "^1.0.5"
   }
